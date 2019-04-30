@@ -1,0 +1,9 @@
+name: LoganSleep
+main: logan.logansleep.LoganSleep
+
+version: "1.0.0"
+api: ["1.0.8"]
+load: POSTWORLD
+author: iLogeyy
+
+prefix: "LoganSleep"
